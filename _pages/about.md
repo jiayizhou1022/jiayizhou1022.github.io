@@ -38,24 +38,24 @@ I am just a rookie, I wanna record some of my progress on this website
 <!-- https://scholar.google.com/citations?user=8Ni9HBQAAAAJ&hl=en&oi=ao -->
 
 # 🔥 News
-- *2023*: &nbsp;🎉🎉 I graduated from Imperial College London.
+- *2023*: &nbsp;🎉🎉 I graduated from Imperial College London for MSc.
 - *2023*: &nbsp;🎉🎉 I started my PhD degree under the supervision of Prof. Meng Gao. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">-->
 
-- [Near-Surface NO2 Concentration Estimation by Random Forest Modeling and Sentinel-5P and Ancillary Data](https://www.mdpi.com/2072-4292/14/15/3612), **Remote Sensing**.
+- [Near-Surface NO2 Concentration Estimation by Random Forest Modeling and Sentinel-5P and Ancillary Data](https://www.mdpi.com/2072-4292/14/15/3612), Meixin Li, Ying Wu, Yansong Bao, **Bofan Liu**, George P Petropoulos, **Remote Sensing**.
 
-Meixin Li, Ying Wu, Yansong Bao, **Bofan Liu**, George P Petropoulos
+- [射频干扰校正对星载微波资料反演降水的影响](10.19513/j.cnki.hyqxxb.20221018003), **刘博凡**, 吴莹, 邹依珂, **海洋气象学报**
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>-->
 
-- [射频干扰校正对星载微波资料反演降水的影响](10.19513/j.cnki.hyqxxb.20221018003), 刘博凡, 吴莹, 邹依珂, **海洋气象学报**
+
 
 # 🎖 Honors and Awards
 ## Honors
