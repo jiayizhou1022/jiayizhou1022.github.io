@@ -48,7 +48,7 @@ I am just a rookie, I wanna record some of my progress on this website
 
 - [Near-Surface NO2 Concentration Estimation by Random Forest Modeling and Sentinel-5P and Ancillary Data](https://www.mdpi.com/2072-4292/14/15/3612), Meixin Li, Ying Wu, Yansong Bao, **Bofan Liu**, George P Petropoulos, **Remote Sensing**.
 
-- [射频干扰校正对星载微波资料反演降水的影响](10.19513/j.cnki.hyqxxb.20221018003), **刘博凡**, 吴莹, 邹依珂, **海洋气象学报**
+- [射频干扰校正对星载微波资料反演降水的影响](http://jmm.ijournal.cn/html/2024/2/20240209.htm), **刘博凡**, 吴莹, 邹依珂, **海洋气象学报**
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
