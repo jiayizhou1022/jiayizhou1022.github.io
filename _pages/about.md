@@ -88,18 +88,13 @@ I like playing table tennis outside the lab. I used to be a member of NUIST Team
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">NUIST Team</div>
-            <img src='images/tabletennis1.jpg' alt="sym" width="100%">
+            <img src='images/tabletennis1.jpg' alt="NUIST Team" width="100%">
         </div>
     </div>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">Imperial Team</div>
-            <img src='images/tabletennis2.jpg' alt="sym" width="100%">
+            <img src='images/tabletennis2.jpg' alt="Imperial Team" width="100%">
         </div>
-    </div>
-    <div class='paper-box-text' markdown="1">
-        <!-- Pictures when I play table tennis competitions -->
     </div>
 </div>
 
