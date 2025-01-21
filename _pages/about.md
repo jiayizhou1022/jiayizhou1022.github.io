@@ -106,7 +106,7 @@ I like playing table tennis outside the lab. I used to be a member of NUIST Team
 *2021.10 - 2022.09* Observing Clouds and Sky" Practice Plan, Comprehensive Observation Training and Practice Base of China Meteorological Administration, Nanjing, China
 - Managed observation operation system, maintained meteorological instruments and controlled the quality of observation data
 - Completed more than 50 ground observation missions with a total of 200+ hours
-- 
+
 <div style="text-align: center;">
     <img src='images/intern1.png' alt="Daily Work" style="width: 50%; display: block; margin: 0 auto;">
     <div style="font-weight: bold;">Daily Work</div>
