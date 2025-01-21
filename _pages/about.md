@@ -94,3 +94,6 @@ I like playing table tennis outside the lab. I used to be a member of NUIST Team
 
 *2021.07* Zhuoming Disaster Information Service Center
 - Analyzed rainstorm data in Henan, drew the precipitation distribution map, and gave warning of danger during 100 hours of volunteer work
+
+# 👨‍🏫 Teaching Assistant
+*2025* GEOG 4005 Advanced Climatology, Tutorial
