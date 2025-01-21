@@ -89,6 +89,7 @@ I like playing table tennis outside the lab. I used to be a member of NUIST Team
 <div class='paper-box-text' markdown="1">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Imperial Team</div><img src='images/tabletennis2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 # 💻 Internships
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 *2021.10 - 2022.09* Observing Clouds and Sky" Practice Plan, Comprehensive Observation Training and Practice Base of China Meteorological Administration, Nanjing, China
