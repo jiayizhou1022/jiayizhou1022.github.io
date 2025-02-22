@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Jiayi Zhou. 
+HI! My name is Jiayi Zhou. 
 
-My bachelor's degree is a joint degree in Atmospheric Sciences from University of Reading and Nanjing University of Information Science and Technology (2019-2023). I've graduated from in Imperial College London studying Environmental Data Science and Machine Learning(2023-2024). Now I am a Ph.D. student at Department of Geography HKBU (2024-).
+My bachelor's degree is a joint degree in Atmospheric Sciences from University of Reading and Nanjing University of Information Science and Technology (2019-2023). Now I am a master student in Fudan University (2023-).
 
 I did something about accessing the precipitation with satellite data supervised by Prof. Emily Blakc and Dr. Ross Maidment from UoR. Meanwhile, Prof. Wu Ying supervised me to do some research on the cylcone and the precipitation at NUIST. At Imperial, under the supervison of Dr. César Quilodrán-Casas (Imperial) and Dr. Laura Anne Mansfield (Standford Uni.), I started to combine machine Learning with climate models. Now, Prof. GAO Meng (HKBU) supervises me to investigate the interactions between climate and aerosols with climate models. 
 
@@ -36,10 +36,6 @@ I am just a rookie, I wanna record some of my progress on this website
 
 
 <!-- https://scholar.google.com/citations?user=8Ni9HBQAAAAJ&hl=en&oi=ao -->
-
-# 🔥 News
-- *2023*: &nbsp;🎉🎉 I graduated from Imperial College London for MSc.
-- *2023*: &nbsp;🎉🎉 I started my PhD degree under the supervision of Prof. Meng Gao. 
 
 # 📝 Publications 
 
@@ -80,25 +76,8 @@ I am just a rookie, I wanna record some of my progress on this website
 <!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
-# 🏓 Table Tennis
-I like playing table tennis outside the lab. I used to be a member of NUIST Team and Imperial College London. We have won several prizes and cups.
-- *2021.06*, 第11届中国大学生阳光体育乒乓球比赛**第八名**
-- *2024*, BUCS Men's Premier (North), 1st.
-- *2024*, BUCS Men's South Eastern Tier 1, 1st.
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">NUIST Team</div>
-            <img src='images/tabletennis1.jpg' alt="NUIST Team" width="100%">
-        </div>
-    </div>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">Imperial Team</div>
-            <img src='images/tabletennis2.jpg' alt="Imperial Team" width="100%">
-        </div>
-    </div>
-</div>
+# Sports
+xxxx
 
 
 # 💻 Internships
