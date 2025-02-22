@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Bofan Liu. 
+My name is Jiayi Zhou. 
 
 My bachelor's degree is a joint degree in Atmospheric Sciences from University of Reading and Nanjing University of Information Science and Technology (2019-2023). I've graduated from in Imperial College London studying Environmental Data Science and Machine Learning(2023-2024). Now I am a Ph.D. student at Department of Geography HKBU (2024-).
 
