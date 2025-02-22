@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Bofan Liu"
-description              : "Personal Website of BofanLiu. "
-repository               : "edsml-bl1023/edsml-bl1023.github.io"
+title                    : "Jiayi Zhou"
+description              : "Personal Website of Jiayi Zhou. "
+repository               : "jiayizhou1022/jiayizhou1022.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "LIU Bofan"
+  name             : "ZHOU Jiayi"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "HKBU PhD student"
-  location         : "Hong Kong SAR"
+  bio              : "Fudan University MSc. student"
+  location         : "Shanghai"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=8Ni9HBQAAAAJ&hl=en&oi=ao"
-  email            : "24482765@life.hkbu.edu.hk"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=SoVjA6MAAAAJ"
+  email            : "23210740028@m.fudan.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "edsml-bl1023"
+  github           : "jiayizhou1022"
   google_plus      :
   keybase          :
   instagram        :
