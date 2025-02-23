@@ -22,6 +22,7 @@ HI! My name is Jiayi Zhou.
 My bachelor's degree is in Environmental Science from the University of Reading and Nanjing University of Information Science and Technology (2019-2023). Currently, I am pursuing a master's degree in Environmental Science at Fudan University (2023-).
 
 
+
 I did something about accessing the precipitation with satellite data supervised by Prof. Emily Blakc and Dr. Ross Maidment from UoR. Meanwhile, Prof. Wu Ying supervised me to do some research on the cylcone and the precipitation at NUIST. At Imperial, under the supervison of Dr. César Quilodrán-Casas (Imperial) and Dr. Laura Anne Mansfield (Standford Uni.), I started to combine machine Learning with climate models. Now, Prof. GAO Meng (HKBU) supervises me to investigate the interactions between climate and aerosols with climate models. 
 
 
@@ -29,8 +30,6 @@ I did something about accessing the precipitation with satellite data supervised
 <a href='https://scholar.google.com/citations?user=8Ni9HBQAAAAJ&hl=en&oi=ao'>
   Google Scholar citations <strong><span id='total_cit'>16</span></strong>-->
 
-  
-</a> 
 <!-- (You can also use the Google Scholar badge 
 <a href='https://scholar.google.com/citations?user=8Ni9HBQAAAAJ&hl=en&oi=ao'>
   <img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/YOUR_REPOSITORY/google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
@@ -65,34 +64,35 @@ I did something about accessing the precipitation with satellite data supervised
 - *2020.11* Outstanding Student Cadre, NUIST                                      
 - *2020.11* First-class Scholarship, NUIST
 
-## Awards
-- *2022.05*	Second Prize, The 12th Amazing Ideas of Science and Technology Innovation Competition, NUIST                                                             
-- *2021.11*	Second Prize, Higher Education Association Cup National College Student Mathematical Contest in Modeling Undergraduate Group Jiangsu Division, China Society for Industrial and Applied Mathematics                                                  
+## Awards                                                
 - *2021.11*	First Place, The 12th "Challenge Cup College Student Entrepreneurship Plan Competition", School of Atmospheric Sciences, NUIST
-- *2021.06*	First Prize, National University Students Sunshine Table Tennis Competition, FUSC 
-- *2021.05*	Third Prize, The 15th Mathematical Contest in Modeling, NUIST
+
 
 # 📖 Educations
-- *2024.09 - now*, PhD, Geography, Hong Kong Baptist University
-- *2023.09 - 2024.09*, MSc, Environmental Data Science and Machine Learning, Imperial College London
-- *2019.09 - 2023.06*, BSc, Atmospheric Sciences, Nanjing University of Information Science and Technology & University of Reading
+- *2023.09 - now*, MSc, Environmental Sciences, Fudan University
+- *2019.09 - 2023.06*, BSc, Environmental Sciences, Nanjing University of Information Science and Technology & University 
 
 <!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
+
 # Sports
 xxxx
 
 
 # 💻 Internships
+
+
+
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
-*2021.10 - 2022.09* Observing Clouds and Sky" Practice Plan, Comprehensive Observation Training and Practice Base of China Meteorological Administration, Nanjing, China
+<!--*2021.10 - 2022.09* Observing Clouds and Sky" Practice Plan, Comprehensive Observation Training and Practice Base of China Meteorological Administration, Nanjing, China
 - Managed observation operation system, maintained meteorological instruments and controlled the quality of observation data
 - Completed more than 50 ground observation missions with a total of 200+ hours
 *2021.07* Zhuoming Disaster Information Service Center
-- Analyzed rainstorm data in Henan, drew the precipitation distribution map, and gave warning of danger during 100 hours of volunteer work
+- Analyzed rainstorm data in Henan, drew the precipitation distribution map, and gave warning of danger during 100 hours of volunteer work-->
 
-# 👨‍🏫 Teaching Assistant
-*2025*, GEOG 4005, Advanced Climatology, Tutorial
+# 👨‍🏫 Teaching Experience
+-*2024*, Environment and Human (UGRD level), Teaching Assistant, Fdu
+
 
 Update：2025/2/30
