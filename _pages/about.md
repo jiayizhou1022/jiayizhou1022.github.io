@@ -21,9 +21,13 @@ HI! My name is Jiayi Zhou.
 
 My bachelor's degree is in Environmental Science from the University of Reading and Nanjing University of Information Science and Technology (2019-2023). Currently, I am pursuing a master's degree in Environmental Science at Fudan University (2023-).
 
+In my scientific journey, I have made various attempts and gradually accumulated experience. My research exploration began during my undergraduate studies, where I was inspired by the courses I took. This led me to initiate my first research project, where I designed and built my own experimental setup, wrote a patent, and led a team to participate in several competitions, earning some awards. Over time, I gradually embarked on my research path. Initially, I conducted experiments in the field of catalysis. Later, during my leadership of a college innovation training project, I developed an interest in atmospheric chemistry, which led me to join a research group focused on atmospheric chemistry models and emission inventories. My undergraduate thesis focused on the study of motor vehicle carbon emission inventories.
 
+After graduating with top honors, I was admitted to Fudan University as a graduate student, where I joined a research group that primarily focuses on atmospheric chemistry experiments. Here, I explored new areas in atmospheric chemistry experiments, instrument improvement, turbulence calculation, model simulation, and the application of machine learning.
 
-I did something about accessing the precipitation with satellite data supervised by Prof. Emily Blakc and Dr. Ross Maidment from UoR. Meanwhile, Prof. Wu Ying supervised me to do some research on the cylcone and the precipitation at NUIST. At Imperial, under the supervison of Dr. César Quilodrán-Casas (Imperial) and Dr. Laura Anne Mansfield (Standford Uni.), I started to combine machine Learning with climate models. Now, Prof. GAO Meng (HKBU) supervises me to investigate the interactions between climate and aerosols with climate models. 
+In terms of my personal life, I am an outgoing person, but I also appreciate quiet, focused environments. I draw strength from solitude, reading, and physical activity. I have been swimming for over ten years and have a strong passion for various sports.
+
+I am currently applying for a PhD program. If you are interested in learning more, please contact me via email (23210740028@m.fudan.edu.cn). My research journey has been deeply enriched by the guidance and support of many mentors, for which I am very grateful. I would like to express my sincere thanks to Professors Chenxi Li, Haiwei Li, Hao Zhou, Lei Yao, Lin Wang, Nan Li, Qing Li, Runlong Cai, Weiwei Hu, Xinlei Gai, and Zhiguo Yu for their invaluable mentorship.
 
 
 <!-- I am just a rookie, I wanna record some of my progress on this website 
@@ -69,8 +73,8 @@ I did something about accessing the precipitation with satellite data supervised
 
 
 # 📖 Educations
-- *2023.09 - now*, MSc, Environmental Sciences, Fudan University
-- *2019.09 - 2023.06*, BSc, Environmental Sciences, Nanjing University of Information Science and Technology & University 
+- *2023.09 - now*, MSc, Environmental Sciences, Fudan University (Advisor: Professor Yao Lei.）
+- *2019.09 - 2023.06*, BSc, Environmental Sciences, Nanjing University of Information Science and Technology & University (Advisor: Professor Nan Li.）
 
 <!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -95,4 +99,4 @@ xxxx
 -*2024*, Environment and Human (UGRD level), Teaching Assistant, Fdu
 
 
-Update：2025/2/30
+Update：2025/2/23
