@@ -21,11 +21,15 @@ HI! My name is Jiayi Zhou.
 
 My bachelor's degree is in Environmental Science from the University of Reading and Nanjing University of Information Science and Technology (2019-2023). Currently, I am pursuing a master's degree in Environmental Science at Fudan University (2023-).
 
+
 I did something about accessing the precipitation with satellite data supervised by Prof. Emily Blakc and Dr. Ross Maidment from UoR. Meanwhile, Prof. Wu Ying supervised me to do some research on the cylcone and the precipitation at NUIST. At Imperial, under the supervison of Dr. César Quilodrán-Casas (Imperial) and Dr. Laura Anne Mansfield (Standford Uni.), I started to combine machine Learning with climate models. Now, Prof. GAO Meng (HKBU) supervises me to investigate the interactions between climate and aerosols with climate models. 
 
-I am just a rookie, I wanna record some of my progress on this website 
+
+<!-- I am just a rookie, I wanna record some of my progress on this website 
 <a href='https://scholar.google.com/citations?user=8Ni9HBQAAAAJ&hl=en&oi=ao'>
-  Google Scholar citations <strong><span id='total_cit'>16</span></strong>
+  Google Scholar citations <strong><span id='total_cit'>16</span></strong>-->
+
+  
 </a> 
 <!-- (You can also use the Google Scholar badge 
 <a href='https://scholar.google.com/citations?user=8Ni9HBQAAAAJ&hl=en&oi=ao'>
@@ -42,8 +46,8 @@ I am just a rookie, I wanna record some of my progress on this website
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">-->
 
-- Translated title of the contribution: Estimation and future prediction of the on-road carbon dioxide emissions in China, **Jiayi Zhou**, Nan Li, Weihang Feng, Keqin Tang, Shuhan Zhu, Wenda Zhu, Huanjing Kexue Xuebao/Acta Scientiae Circumstantiae, 2023;
 - Effects of the preparation method of Cu⁃ SAPO⁃ 34 catalysts in de-NOx SCR by propylene, **Jiayi Zhou**, Nan Li, Xurui Wang, Lu Xu, Hao Zhou,Journal of Environmental Chemical Engineering, 2022;
+- Translated title of the contribution: Estimation and future prediction of the on-road carbon dioxide emissions in China, **Jiayi Zhou**, Nan Li, Weihang Feng, Keqin Tang, Shuhan Zhu, Wenda Zhu, Huanjing Kexue Xuebao/Acta Scientiae Circumstantiae, 2023;
 - Quantitative characterization of the volatility distribution of organic aerosols in a polluted urban area: Intercomparison between thermodenuder and molecular measurements, Wei Chen, Weiwei Hu, Zi Tao, Yiyu Cai, Mingfu Cai, Ming Zhu, Yuqing Ye, Huaishan Zhou, Hongxing Jiang, Jun Li, Wei Song, **Jiayi Zhou**, Shan Huang, Bin Yuan, Min Shao, Qiandan Feng, Ying Li, Gabriel Isaacman‐VanWertz, Harald Stark, Douglas A Day, Pedro Campuzano‐Jost, Jose L Jimenez, Xinming Wang, 2024;
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
