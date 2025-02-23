@@ -42,9 +42,9 @@ I am just a rookie, I wanna record some of my progress on this website
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">-->
 
-- [Near-Surface NO2 Concentration Estimation by Random Forest Modeling and Sentinel-5P and Ancillary Data](https://www.mdpi.com/2072-4292/14/15/3612), Meixin Li, Ying Wu, Yansong Bao, **Bofan Liu**, George P Petropoulos, **Remote Sensing**.
-
-- [射频干扰校正对星载微波资料反演降水的影响](http://jmm.ijournal.cn/html/2024/2/20240209.htm), **刘博凡**, 吴莹, 邹依珂, **海洋气象学报**
+- Translated title of the contribution: Estimation and future prediction of the on-road carbon dioxide emissions in China, **Jiayi Zhou**, Nan Li, Weihang Feng, Keqin Tang, Shuhan Zhu, Wenda Zhu, Huanjing Kexue Xuebao/Acta Scientiae Circumstantiae, 2023;
+- Effects of the preparation method of Cu⁃ SAPO⁃ 34 catalysts in de-NOx SCR by propylene, **Jiayi Zhou**, Nan Li, Xurui Wang, Lu Xu, Hao Zhou,Journal of Environmental Chemical Engineering, 2022;
+- Quantitative characterization of the volatility distribution of organic aerosols in a polluted urban area: Intercomparison between thermodenuder and molecular measurements, Wei Chen, Weiwei Hu, Zi Tao, Yiyu Cai, Mingfu Cai, Ming Zhu, Yuqing Ye, Huaishan Zhou, Hongxing Jiang, Jun Li, Wei Song, **Jiayi Zhou**, Shan Huang, Bin Yuan, Min Shao, Qiandan Feng, Ying Li, Gabriel Isaacman‐VanWertz, Harald Stark, Douglas A Day, Pedro Campuzano‐Jost, Jose L Jimenez, Xinming Wang, 2024;
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -85,16 +85,10 @@ xxxx
 *2021.10 - 2022.09* Observing Clouds and Sky" Practice Plan, Comprehensive Observation Training and Practice Base of China Meteorological Administration, Nanjing, China
 - Managed observation operation system, maintained meteorological instruments and controlled the quality of observation data
 - Completed more than 50 ground observation missions with a total of 200+ hours
-
-<div style="text-align: center;">
-    <img src='images/intern1.png' alt="Daily Work" style="width: 50%; display: block; margin: 0 auto;">
-    <div style="font-weight: bold;">Daily Work</div>
-</div>
-
 *2021.07* Zhuoming Disaster Information Service Center
 - Analyzed rainstorm data in Henan, drew the precipitation distribution map, and gave warning of danger during 100 hours of volunteer work
 
 # 👨‍🏫 Teaching Assistant
 *2025*, GEOG 4005, Advanced Climatology, Tutorial
 
-Update：2025/1/23
+Update：2025/2/30
