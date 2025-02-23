@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-HI! My name is Jiayi Zhou. 
+Hi! My name is Jiayi Zhou. 
 
 My bachelor's degree is in Environmental Science from the University of Reading and Nanjing University of Information Science and Technology (2019-2023). Currently, I am pursuing a master's degree in Environmental Science at Fudan University (2023-).
 
