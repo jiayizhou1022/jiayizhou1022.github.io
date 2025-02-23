@@ -27,7 +27,7 @@ After graduating with top honors, I was admitted to Fudan University as a gradua
 
 In terms of my personal life, I am a relatively introverted person, but can be quite outgoing in social situations. I enjoy quiet, focused environments and draw strength from solitude, reading, and physical activity. I have been swimming for over ten years and have a strong passion for various sports.
 
-I am currently applying for a PhD program. If you are interested in learning more, please contact me via email (23210740028@m.fudan.edu.cn). My research journey has been deeply enriched by the guidance and support of many mentors, for which I am very grateful. I would like to express my sincere thanks to Professors Chenxi Li, Haiwei Li, Hao Zhou, Lei Yao, Lin Wang, Nan Li, Qing Li, Runlong Cai, Weiwei Hu, Xinlei Gai, and Zhiguo Yu for their invaluable mentorship.
+I am currently applying for a PhD program. If you are interested in learning more, please contact me via email (**23210740028@m.fudan.edu.cn**). My research journey has been deeply enriched by the guidance and support of many mentors, for which I am very grateful. I would like to express my sincere thanks to Professors Chenxi Li, Haiwei Li, Hao Zhou, Lei Yao, Lin Wang, Nan Li, Qing Li, Runlong Cai, Weiwei Hu, Xinlei Gai, and Zhiguo Yu for their invaluable mentorship.
 
 
 <!-- I am just a rookie, I wanna record some of my progress on this website 
