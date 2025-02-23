@@ -19,7 +19,7 @@ redirect_from:
 
 HI! My name is Jiayi Zhou. 
 
-My bachelor's degree is a joint degree in Atmospheric Sciences from University of Reading and Nanjing University of Information Science and Technology (2019-2023). Now I am a master student in Fudan University (2023-).
+My bachelor's degree is in Environmental Science from the University of Reading and Nanjing University of Information Science and Technology (2019-2023). Currently, I am pursuing a master's degree in Environmental Science at Fudan University (2023-).
 
 I did something about accessing the precipitation with satellite data supervised by Prof. Emily Blakc and Dr. Ross Maidment from UoR. Meanwhile, Prof. Wu Ying supervised me to do some research on the cylcone and the precipitation at NUIST. At Imperial, under the supervison of Dr. César Quilodrán-Casas (Imperial) and Dr. Laura Anne Mansfield (Standford Uni.), I started to combine machine Learning with climate models. Now, Prof. GAO Meng (HKBU) supervises me to investigate the interactions between climate and aerosols with climate models. 
 
