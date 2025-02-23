@@ -71,7 +71,7 @@ I am currently applying for a PhD program. If you are interested in learning mor
 ## Awards                                                
 - *2021.11*	First Place, The 12th "Challenge Cup College Student Entrepreneurship Plan Competition", School of Atmospheric Sciences, NUIST
 
-
+<span class='anchor' id='educations'></span>
 # 📖 Educations
 - *2023.09 - now*, MSc, Environmental Sciences, Fudan University (Advisor: Professor Yao Lei.）
 - *2019.09 - 2023.06*, BSc, Environmental Sciences, Nanjing University of Information Science and Technology & University (Advisor: Professor Nan Li.）
