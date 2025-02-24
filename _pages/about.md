@@ -70,8 +70,8 @@ In terms of my personal life, I am a relatively introverted person, but can be q
 # 🎖 Honors and Awards
 ## Honors
 - *2023.06* **Outstanding graduates of Jiangsu Province**
-- *2021.12* **National Scholarship**
-- *2022.12* **National Scholarship**                                        
+- *2021.12* **China National Scholarship**
+- *2022.12* **China National Scholarship**                                        
 - *2022.12* **President's Scholarship**, NUIST
 - Multiple awards for "Outstanding Student" and "Excellent Student Leader", NUIST                                                           
 
