@@ -95,8 +95,12 @@ In terms of my personal life, I am a relatively introverted person, but can be q
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 🏊 Sports
-xxxx
-
+- *2019-2020*, NUIST Basketball League (Women's Group), the 7th place
+- *2022.05*, Women's 100m Freestyle at NUIST Swimming League, the 3rd place
+- *2022.05*, Women's 200m Freestyle at NUIST Swimming League, the 2nd place
+- *2024.10*, Women's 50m Breaststroke at Fdu Swimming League, the 4th place
+- *2024.10*, Women's 50m Freestyle at Fdu Swimming League, the 5th place
+- *2024.10*, Mixed 4x50m Freestyle Relay at Fdu Swimming League, the 3rd place
 
 # 💻 Social Practice
 - *2021*, Carbon Neutrality and Peak Carbon" Public Science Outreach,**principal**, **Grand Prize**, **Outstanding Survey Report**, **Advanced Individual**, NUIST
