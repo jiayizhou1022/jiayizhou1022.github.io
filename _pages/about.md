@@ -117,7 +117,7 @@ In terms of my personal life, I am a relatively introverted person, but can be q
 - Analyzed rainstorm data in Henan, drew the precipitation distribution map, and gave warning of danger during 100 hours of volunteer work-->
 
 # 👨‍🏫 Teaching Experience
--*2024*, Environment and Human (UGRD level), Teaching Assistant, Fdu
+- *2024*, Environment and Human (UGRD level), Teaching Assistant, Fdu
 
 
 
