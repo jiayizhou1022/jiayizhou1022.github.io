@@ -88,8 +88,8 @@ In terms of my personal life, I am a relatively introverted person, but can be q
 - *2021*, Nanjing University of Information Science and Technology Innovation Experience Competition, **principal**, **Grand Prize**
 <span class='anchor' id='educations'></span>
 # 📖 Educations
-- *2023.09 - now*, MSc, Environmental Sciences, Fudan University (**Supervisor: Professor Yao Lei**）
-- *2019.09 - 2023.06*, BSc, Environmental Sciences, Nanjing University of Information Science and Technology (**Supervisor: Professor Nan Li**）
+- *2023.09 - now*, MSc, Environmental Sciences, Fudan University (**Supervisor: Professor lei YAO**）
+- *2019.09 - 2023.06*, BSc, Environmental Sciences, Nanjing University of Information Science and Technology (**Supervisor: Professor nan LI**）
 
 <!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
