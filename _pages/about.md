@@ -57,7 +57,7 @@ In terms of my personal life, I am a relatively introverted person, but can be q
 - **Jiayi Zhou**, Nan Li, Weihang Feng, Keqin Tang, Shuhan Zhu, Wenda Zhu, Translated title of the contribution: Estimation and future prediction of the on-road carbon dioxide emissions in China, Acta Scientiae Circumstantiae, 2023, 43 (10), 267-278.;
 - Wei Chen, Weiwei Hu, Zi Tao, Yiyu Cai, Mingfu Cai, Ming Zhu, Yuqing Ye, Huaishan Zhou, Hongxing Jiang, Jun Li, Wei Song, **Jiayi Zhou**, Shan Huang, Bin Yuan, Min Shao, Qiandan Feng, Ying Li, Gabriel Isaacman‐VanWertz, Harald Stark, Douglas A Day, Pedro Campuzano‐Jost, Jose L Jimenez, Xinming Wang, Quantitative characterization of the volatility distribution of organic aerosols in a polluted urban area: Intercomparison between thermodenuder and molecular measurements, Journal of Geophysical Research: Atmospheres, 2024, 129 (4), e2023JD040284.;
 ##  Utility Patents
-- Device for Treating Marine Oil Spill}, **principal**, (ZL 2020 2 2304591.5)
+- Device for Treating Marine Oil Spill, **principal**, (ZL 2020 2 2304591.5)
 - Novel Hanging Lamp, **principal**, (ZL 2021 2 0921630.8)
 - Chair with Replaceable Surface Membrane, **principal**, (ZL 2021 2 0792568.7)
 - Aerosol Monitoring Device, participant (ZL 2021 2 2254533.0)
@@ -85,7 +85,6 @@ In terms of my personal life, I am a relatively introverted person, but can be q
 - *2020*, Jiangsu Province Water Supply and Drainage Innovation Competition, **principal**, Second Prize
 - *2020*, Jiangsu Province Water Creative Design Competition, **principal**, Second Prize
 - *2021*, Nanjing University of Information Science and Technology Innovation Experience Competition, **principal**, **Grand Prize**
-
 <span class='anchor' id='educations'></span>
 # 📖 Educations
 - *2023.09 - now*, MSc, Environmental Sciences, Fudan University (**Advisor: Professor Yao Lei**）
