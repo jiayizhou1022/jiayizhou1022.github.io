@@ -49,9 +49,9 @@ In terms of my personal life, I am a relatively introverted person, but can be q
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">-->
 
-<!--- Effects of the preparation method of Cu⁃ SAPO⁃ 34 catalysts in de-NOx SCR by propylene, **Jiayi Zhou**, Nan Li, Xurui Wang, Lu Xu, Hao Zhou,Journal of Environmental Chemical Engineering, 2022, 10 (4), 108160.;
-- Translated title of the contribution: Estimation and future prediction of the on-road carbon dioxide emissions in China, **Jiayi Zhou**, Nan Li, Weihang Feng, Keqin Tang, Shuhan Zhu, Wenda Zhu, Acta Scientiae Circumstantiae, 2023, 43 (10), 267-278.;
-- Quantitative characterization of the volatility distribution of organic aerosols in a polluted urban area: Intercomparison between thermodenuder and molecular measurements, Wei Chen, Weiwei Hu, Zi Tao, Yiyu Cai, Mingfu Cai, Ming Zhu, Yuqing Ye, Huaishan Zhou, Hongxing Jiang, Jun Li, Wei Song, **Jiayi Zhou**, Shan Huang, Bin Yuan, Min Shao, Qiandan Feng, Ying Li, Gabriel Isaacman‐VanWertz, Harald Stark, Douglas A Day, Pedro Campuzano‐Jost, Jose L Jimenez, Xinming Wang, Journal of Geophysical Research: Atmospheres, 2024, 129 (4), e2023JD040284.;
+<!--- Effects of the preparation method of Cu⁃ SAPO⁃ 34 catalysts in de-NOx SCR by propylene, **Jiayi Zhou**, Nan Li, Xurui Wang, Lu Xu, Hao Zhou,Journal of Environmental Chemical Engineering, 2022, 10 (4), 108160.
+- Translated title of the contribution: Estimation and future prediction of the on-road carbon dioxide emissions in China, **Jiayi Zhou**, Nan Li, Weihang Feng, Keqin Tang, Shuhan Zhu, Wenda Zhu, Acta Scientiae Circumstantiae, 2023, 43 (10), 267-278.
+- Quantitative characterization of the volatility distribution of organic aerosols in a polluted urban area: Intercomparison between thermodenuder and molecular measurements, Wei Chen, Weiwei Hu, Zi Tao, Yiyu Cai, Mingfu Cai, Ming Zhu, Yuqing Ye, Huaishan Zhou, Hongxing Jiang, Jun Li, Wei Song, **Jiayi Zhou**, Shan Huang, Bin Yuan, Min Shao, Qiandan Feng, Ying Li, Gabriel Isaacman‐VanWertz, Harald Stark, Douglas A Day, Pedro Campuzano‐Jost, Jose L Jimenez, Xinming Wang, Journal of Geophysical Research: Atmospheres, 2024, 129 (4), e2023JD040284.
 -->
 - **Jiayi Zhou**, Nan Li, Xurui Wang, Lu Xu, Hao Zhou, Effects of the preparation method of Cu⁃ SAPO⁃ 34 catalysts in de-NOx SCR by propylene, Journal of Environmental Chemical Engineering, 2022, 10 (4), 108160.;
 - **Jiayi Zhou**, Nan Li, Weihang Feng, Keqin Tang, Shuhan Zhu, Wenda Zhu, Translated title of the contribution: Estimation and future prediction of the on-road carbon dioxide emissions in China, Acta Scientiae Circumstantiae, 2023, 43 (10), 267-278.;
@@ -70,7 +70,8 @@ In terms of my personal life, I am a relatively introverted person, but can be q
 # 🎖 Honors and Awards
 ## Honors
 - *2023.06* **Outstanding graduates of Jiangsu Province**
-- *2021.12,2022.12* **National Scholarship**                                      
+- *2021.12* **National Scholarship**
+- *2022.12* **National Scholarship**                                        
 - *2022.12* **President's Scholarship**, NUIST
 - Multiple awards for "Outstanding Student" and "Excellent Student Leader", NUIST                                                           
 
