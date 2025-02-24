@@ -53,7 +53,6 @@ In terms of my personal life, I am a relatively introverted person, but can be q
 - Translated title of the contribution: Estimation and future prediction of the on-road carbon dioxide emissions in China, **Jiayi Zhou**, Nan Li, Weihang Feng, Keqin Tang, Shuhan Zhu, Wenda Zhu, Acta Scientiae Circumstantiae, 2023, 43 (10), 267-278.;
 - Quantitative characterization of the volatility distribution of organic aerosols in a polluted urban area: Intercomparison between thermodenuder and molecular measurements, Wei Chen, Weiwei Hu, Zi Tao, Yiyu Cai, Mingfu Cai, Ming Zhu, Yuqing Ye, Huaishan Zhou, Hongxing Jiang, Jun Li, Wei Song, **Jiayi Zhou**, Shan Huang, Bin Yuan, Min Shao, Qiandan Feng, Ying Li, Gabriel Isaacman‐VanWertz, Harald Stark, Douglas A Day, Pedro Campuzano‐Jost, Jose L Jimenez, Xinming Wang, Journal of Geophysical Research: Atmospheres, 2024, 129 (4), e2023JD040284.;
 -->
-
 - **Jiayi Zhou**, Nan Li, Xurui Wang, Lu Xu, Hao Zhou, Effects of the preparation method of Cu⁃ SAPO⁃ 34 catalysts in de-NOx SCR by propylene, Journal of Environmental Chemical Engineering, 2022, 10 (4), 108160.;
 - **Jiayi Zhou**, Nan Li, Weihang Feng, Keqin Tang, Shuhan Zhu, Wenda Zhu, Translated title of the contribution: Estimation and future prediction of the on-road carbon dioxide emissions in China, Acta Scientiae Circumstantiae, 2023, 43 (10), 267-278.;
 - Wei Chen, Weiwei Hu, Zi Tao, Yiyu Cai, Mingfu Cai, Ming Zhu, Yuqing Ye, Huaishan Zhou, Hongxing Jiang, Jun Li, Wei Song, **Jiayi Zhou**, Shan Huang, Bin Yuan, Min Shao, Qiandan Feng, Ying Li, Gabriel Isaacman‐VanWertz, Harald Stark, Douglas A Day, Pedro Campuzano‐Jost, Jose L Jimenez, Xinming Wang, Quantitative characterization of the volatility distribution of organic aerosols in a polluted urban area: Intercomparison between thermodenuder and molecular measurements, Journal of Geophysical Research: Atmospheres, 2024, 129 (4), e2023JD040284.;
@@ -76,7 +75,16 @@ In terms of my personal life, I am a relatively introverted person, but can be q
 - Multiple awards for "Outstanding Student" and "Excellent Student Leader", NUIST                                                           
 
 ## Awards                                                
-- *2021.11*	First Place, The 12th "Challenge Cup College Student Entrepreneurship Plan Competition", School of Atmospheric Sciences, NUIST
+- *2021*, National Innovation Experience Competition, **principal**, Third Prize
+- *2021*, National College Student Water Conservancy Innovation Design Competition, **principal**, **First Prize**
+- *2021*, National Innovation Experience Competition, **principal**, Third Prize
+- *2021*, National College Student Energy Conservation and Emission Reduction Competition, **principal**, Third Prize
+- *2021*, National College English Competition (NECCS), **principal**, Second Prize
+- *2021*, Jiangsu Province College Energy Conservation and Emission Reduction Competition, **principal**, Second Prize
+- *2021*, Jiangsu "Internet+" Innovation and Entrepreneurship Competition, participant, Third Prize
+- *2020*, Jiangsu Province Water Supply and Drainage Innovation Competition, **principal**, Second Prize
+- *2020*, Jiangsu Province Water Creative Design Competition, **principal**, Second Prize
+- *2021*, Nanjing University of Information Science and Technology Innovation Experience Competition, **principal**, **Grand Prize**
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
@@ -91,7 +99,7 @@ In terms of my personal life, I am a relatively introverted person, but can be q
 xxxx
 
 
-# 💻 Internships
+# 💻 Social Practice
 
 
 
