@@ -99,6 +99,9 @@ xxxx
 
 
 # 💻 Social Practice
+- *2021*, Carbon Neutrality and Peak Carbon" Public Science Outreach,**principal**, **Grand Prize**, **Outstanding Survey Report**, **Advanced Individual**, NUIST
+- *2021*, Member of "Fengyun Scholars" Lecture Group, NUIST
+- *2020-2021*, Minister, Science and Technology Association, School of Environmental Science and Engineering
 
 
 
@@ -111,6 +114,7 @@ xxxx
 
 # 👨‍🏫 Teaching Experience
 -*2024*, Environment and Human (UGRD level), Teaching Assistant, Fdu
+
 
 
 Update：2025/2/23
