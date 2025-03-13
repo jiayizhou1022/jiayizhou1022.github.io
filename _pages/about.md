@@ -105,7 +105,7 @@ In terms of my personal life, I am a relatively introverted person, but can be q
   
 
 # 💻 Social Practice
-- *2021*, Carbon Neutrality and Peak Carbon" Public Science Outreach,**principal**, **Grand Prize**, **Outstanding Survey Report**, **Advanced Individual**, NUIST
+- *2021*, Carbon Neutrality and Peak Carbon" Public Science Outreach, **principal**, **Grand Prize**, **Outstanding Survey Report**, **Advanced Individual**, NUIST
 - *2021*, Member of "Fengyun Scholars" Lecture Group, NUIST
 - *2020-2021*, Minister, Science and Technology Association, School of Environmental Science and Engineering
 
