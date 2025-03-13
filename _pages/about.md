@@ -27,7 +27,7 @@ After graduating with top honors, I was admitted to Fudan University as a gradua
 
 In terms of my personal life, I am a relatively introverted person, but can be quite outgoing in social situations. I enjoy quiet, focused environments and draw strength from solitude, reading, and physical activity. I have been swimming for over ten years and have a strong passion for various sports.
 
-**I am currently applying for a PhD program**. If you are interested in learning more, please contact me via email (**23210740028@m.fudan.edu.cn**). My research journey has been deeply enriched by the guidance and support of many mentors, for which I am very grateful. I would like to express my sincere thanks to Professors Chenxi Li, Haiwei Li, Hao Zhou, Lei Yao, Lin Wang, Nan Li, Qing Li, Runlong Cai, Weiwei Hu, Xinlei Gai, and Zhiguo Yu for their invaluable mentorship.
+**I am currently applying for a PhD program**. If you are interested in knowing more, please contact me via email (**23210740028@m.fudan.edu.cn**). My research journey has been deeply enriched by the guidance and support of many mentors, for which I am very grateful. I would like to express my sincere thanks to Professors Chenxi Li, Haiwei Li, Hao Zhou, Lei Yao, Lin Wang, Nan Li, Qing Li, Runlong Cai, Weiwei Hu, Xinlei Gai, and Zhiguo Yu for their invaluable mentorship.
 
 
 <!-- I am just a rookie, I wanna record some of my progress on this website 
@@ -43,6 +43,10 @@ In terms of my personal life, I am a relatively introverted person, but can be q
 
 
 <!-- https://scholar.google.com/citations?user=8Ni9HBQAAAAJ&hl=en&oi=ao -->
+
+# 📖 Educations
+- *2023.09 - now*, MSc, Environmental Sciences, Fudan University (**Supervisor: Professor Lei Yao**）
+- *2019.09 - 2023.06*, BSc, Environmental Sciences, Nanjing University of Information Science and Technology (**Supervisor: Professor Nan Li**）
 
 # 📝 Publications 
 
@@ -87,29 +91,19 @@ In terms of my personal life, I am a relatively introverted person, but can be q
 - *2020*, Jiangsu Province Water Supply and Drainage Innovation Competition, **principal**, Second Prize
 - *2020*, Jiangsu Province Water Creative Design Competition, **principal**, Second Prize
 <span class='anchor' id='educations'></span>
-# 📖 Educations
-- *2023.09 - now*, MSc, Environmental Sciences, Fudan University (**Supervisor: Professor Lei Yao**）
-- *2019.09 - 2023.06*, BSc, Environmental Sciences, Nanjing University of Information Science and Technology (**Supervisor: Professor Nan Li**）
+
 
 <!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
-# 🏊 Sports
-- *2024.10*, Women's 50m Breaststroke at Fdu Swimming League, the 4th place
-- *2024.10*, Women's 50m Freestyle at Fdu Swimming League, the 5th place
-- *2024.10*, Mixed 4x50m Freestyle Relay at Fdu Swimming League, the 3rd place
-- *2022.05*, Women's 100m Freestyle at NUIST Swimming League, the 3rd place
-- *2022.05*, Women's 200m Freestyle at NUIST Swimming League, the 2nd place
-- *2019-2020*, NUIST Basketball League (Women's Group), the 7th place
-  
+# 👨‍🏫 Teaching Experience
+- *2024*, Environment and Human (UGRD level), Teaching Assistant, Fdu
 
 # 💻 Social Practice
 - *2021*, Carbon Neutrality and Peak Carbon" Public Science Outreach, **principal**, **Grand Prize**, **Outstanding Survey Report**, **Advanced Individual**, NUIST
 - *2021*, Member of "Fengyun Scholars" Lecture Group, NUIST
 - *2020-2021*, Minister, Science and Technology Association, School of Environmental Science and Engineering
-
-
 
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 <!--*2021.10 - 2022.09* Observing Clouds and Sky" Practice Plan, Comprehensive Observation Training and Practice Base of China Meteorological Administration, Nanjing, China
@@ -118,9 +112,13 @@ In terms of my personal life, I am a relatively introverted person, but can be q
 *2021.07* Zhuoming Disaster Information Service Center
 - Analyzed rainstorm data in Henan, drew the precipitation distribution map, and gave warning of danger during 100 hours of volunteer work-->
 
-# 👨‍🏫 Teaching Experience
-- *2024*, Environment and Human (UGRD level), Teaching Assistant, Fdu
-
+# 🏊 Sports
+- *2024.10*, Women's 50m Breaststroke at Fdu Swimming League, the 4th place
+- *2024.10*, Women's 50m Freestyle at Fdu Swimming League, the 5th place
+- *2024.10*, Mixed 4x50m Freestyle Relay at Fdu Swimming League, the 3rd place
+- *2022.05*, Women's 100m Freestyle at NUIST Swimming League, the 3rd place
+- *2022.05*, Women's 200m Freestyle at NUIST Swimming League, the 2nd place
+- *2019-2020*, NUIST Basketball League (Women's Group), the 7th place
 
 
 Update：2025/2/23
