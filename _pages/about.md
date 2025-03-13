@@ -70,9 +70,9 @@ In terms of my personal life, I am a relatively introverted person, but can be q
 # 🎖 Honors and Awards
 ## Honors
 - *2023.06* **Outstanding graduates of Jiangsu Province**
-- *2021.12* **China National Scholarship**
-- *2022.12* **China National Scholarship**                                        
 - *2022.12* **President's Scholarship**, NUIST
+- *2022.12* **China National Scholarship**
+- *2021.12* **China National Scholarship**                                    
 - Multiple awards for "Outstanding Student" and "Excellent Student Leader", NUIST                                                           
 
 ## Awards                                                
@@ -83,9 +83,9 @@ In terms of my personal life, I am a relatively introverted person, but can be q
 - *2021*, National College English Competition (NECCS), **principal**, Second Prize
 - *2021*, Jiangsu Province College Energy Conservation and Emission Reduction Competition, **principal**, Second Prize
 - *2021*, Jiangsu "Internet+" Innovation and Entrepreneurship Competition, participant, Third Prize
+- *2021*, Nanjing University of Information Science and Technology Innovation Experience Competition, **principal**, **Grand Prize**
 - *2020*, Jiangsu Province Water Supply and Drainage Innovation Competition, **principal**, Second Prize
 - *2020*, Jiangsu Province Water Creative Design Competition, **principal**, Second Prize
-- *2021*, Nanjing University of Information Science and Technology Innovation Experience Competition, **principal**, **Grand Prize**
 <span class='anchor' id='educations'></span>
 # 📖 Educations
 - *2023.09 - now*, MSc, Environmental Sciences, Fudan University (**Supervisor: Professor Lei YAO**）
@@ -96,12 +96,13 @@ In terms of my personal life, I am a relatively introverted person, but can be q
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 🏊 Sports
-- *2019-2020*, NUIST Basketball League (Women's Group), the 7th place
-- *2022.05*, Women's 100m Freestyle at NUIST Swimming League, the 3rd place
-- *2022.05*, Women's 200m Freestyle at NUIST Swimming League, the 2nd place
 - *2024.10*, Women's 50m Breaststroke at Fdu Swimming League, the 4th place
 - *2024.10*, Women's 50m Freestyle at Fdu Swimming League, the 5th place
 - *2024.10*, Mixed 4x50m Freestyle Relay at Fdu Swimming League, the 3rd place
+- *2022.05*, Women's 100m Freestyle at NUIST Swimming League, the 3rd place
+- *2022.05*, Women's 200m Freestyle at NUIST Swimming League, the 2nd place
+- *2019-2020*, NUIST Basketball League (Women's Group), the 7th place
+  
 
 # 💻 Social Practice
 - *2021*, Carbon Neutrality and Peak Carbon" Public Science Outreach,**principal**, **Grand Prize**, **Outstanding Survey Report**, **Advanced Individual**, NUIST
