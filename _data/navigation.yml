@@ -12,11 +12,11 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Sports"
-    url: "/#-sports"
-
   - title: "Social Practice"
     url: "/#-social-practice"
+
+  - title: "Sports"
+    url: "/#-sports"
 
   - title: "Teaching Experience"
     url: "/#-teaching-experience"
