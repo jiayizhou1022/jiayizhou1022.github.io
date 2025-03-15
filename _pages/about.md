@@ -19,15 +19,17 @@ redirect_from:
 
 Hi! My name is **Jiayi Zhou**. 
 
-My bachelor's degree is in Environmental Science from the University of Reading and Nanjing University of Information Science and Technology (2019-2023). Currently, I am pursuing a master's degree in Environmental Science at Fudan University (2023-2026).
+Thank you for taking the time to visit my page. Below, I will provide a brief introduction to my research experience and interests.
 
-In my scientific journey, I have made various attempts and gradually accumulated experience. My research exploration began during my undergraduate studies, where I was inspired by the courses I took. This led me to initiate my first research project, where I designed and built my own experimental setup, wrote a patent, and led a team to participate in several competitions, earning some awards. Over time, I gradually embarked on my research path. Initially, I conducted experiments in the field of catalysis. Later, during my leadership of a college innovation training project, I developed an interest in atmospheric chemistry, which led me to join a research group focused on atmospheric chemistry models and emission inventories. **My undergraduate thesis focused on the study of motor vehicle carbon emission inventories**.
+In my scientific journey, I have made various attempts and gradually accumulated experience. My research exploration began during my undergraduate studies, where I was inspired by the courses I took. This led me to initiate my first research project, where I designed and built my own experimental setup, wrote patents, and led a team to participate in several competitions, earning some awards. Over time, I gradually embarked on my research path. Initially, I conducted experiments in the field of catalysis. Later, during my leadership of a college innovation training project, I developed an interest in atmospheric chemistry, which led me to join a research group focused on atmospheric chemistry models and emission inventories. **My undergraduate thesis focused on the study of motor vehicle carbon emission inventories**.
 
-After graduating with top honors, I was admitted to Fudan University as a graduate student, where I joined a research group that primarily focuses on atmospheric chemistry experiments. **Here, I explored new areas in atmospheric chemistry experiments, instrument improvement, eddy calculation, model simulation, and the application of machine learning**.
+After graduating with top honors, I was admitted to Fudan University as a graduate student, where I joined a research group that primarily focuses on atmospheric chemistry experiments. **Here, I explored new areas in atmospheric chemistry experiments, instrument improvement, eddy calculation, model simulation, and the application of machine learning**. My thesis for master's degree is about **the Influence of Condensation Sink Efficiency**. I was the first student in my group to utilize **the Orbitrap mass spectrometer** and **adapted the instrument for online gas-phase analysis**, providing a solid foundation for its future utilization in our group. I began with experiments in the **chambers** but later developed **a flowtube reaction setup**, designing it with SolidWorks and simulating the flow-fields with COMSOL. I have operated with various instruments such as atomizers, SMPS, and PSM, also the Orbitrap, during the course of my work, and I designed a high-flow humidifier for experimental utilization. I have applied modeling approaches such as **ACDC model and CDMS model**, along with **machine learning techniques**, to make my experimental results more usable. 
 
-In terms of my personal life, I am a relatively introverted person, but can be quite outgoing in social situations. I enjoy quiet, focused environments and draw strength from solitude, reading, and physical activity. I have been swimming for over ten years and have a strong passion for various sports.
+In addition to the laboratory experiments, I participated in two field campaigns, at Lake Taihu and Huaniao Island. I completed the PTR-MS and **flux data analysis** of the Taihu campaign—a new field my research group was not yet experienced in—refining my coding, handling, and analysis skills. I am now conducting further analysis. Additionally, during the field campaign and laboratory experiments, our group obtained an Advanced License for the Orbitrap mass spectrometer to enhance its detection for atmospheric molecular clusters. I have subsequently conducted experiments to test the performance under various conditions. This work further advanced my expertise in the use of the instrument and acquisition of the data, and I will further expand these experiments in my future research.
 
-**I am currently applying for a PhD program**. If you are interested in knowing more, please contact me via email (**23210740028@m.fudan.edu.cn**). My research journey has been deeply enriched by the guidance and support of many mentors, for which I am very grateful. I would like to express my sincere thanks to Professors Chenxi Li, Haiwei Li, Hao Zhou, Lei Yao, Lin Wang, Nan Li, Qing Li, Runlong Cai, Weiwei Hu, Xinlei Gai, and Zhiguo Yu for their invaluable mentorship.
+While continuing to develop my research activities, I have also assisted other colleagues by supporting Teflon filter-based Orbitrap detections and thermal desorption experiments. I have also worked on research reports and projects, including molecular exposure assessments and toxicological calculations, and this further developed my technical writing and teamwork skills.
+
+By exploring the underlying mechanisms of atmospheric processes, I aim to contribute to the advancing knowledge in this field and address relevant environmental challenges. Currently **I am applying for a PhD program**. If you are interested in knowing more, please contact me via email (**23210740028@m.fudan.edu.cn**). My research journey has been deeply enriched by the guidance and support of many mentors, for which I am very grateful. I would like to express my sincere thanks to Professors Chenxi Li, Haiwei Li, Hao Zhou, Lei Yao, Lin Wang, Nan Li, Qing Li, Runlong Cai, Weiwei Hu, Xinlei Gai, and Zhiguo Yu for their invaluable mentorship.
 
 
 <!-- I am just a rookie, I wanna record some of my progress on this website 
@@ -67,6 +69,9 @@ In terms of my personal life, I am a relatively introverted person, but can be q
 - Novel Hanging Lamp, **principal**, (ZL 2021 2 0921630.8)
 - Chair with Replaceable Surface Membrane, **principal**, (ZL 2021 2 0792568.7)
 - Aerosol Monitoring Device, participant (ZL 2021 2 2254533.0)
+
+## Oral Presentation
+- The 8th Young Geoscientists Forum —— Estimation and future prediction of the on-road carbon dioxide emissions in China 
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -123,4 +128,4 @@ In terms of my personal life, I am a relatively introverted person, but can be q
 - *2019-2020*, NUIST Basketball League (Women's Group), the 7th place
 
 
-Update：2025/2/23
+Update：2025/3/15
