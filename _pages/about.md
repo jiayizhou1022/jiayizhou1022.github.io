@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! My name is **Jiayi Zhou**. 
 
-My research interests include **atmospheric chemistry experiments, flux calculation, model simulation, and the application of machine learning**. By exploring the underlying mechanisms of atmospheric processes, I aim to contribute to advancing knowledge in this field and address relevant environmental challenges. Currently **I am applying for a PhD program**. If you would like to know more, please contact me via email (**23210740028@m.fudan.edu.cn**). 
+My research interests include **atmospheric chemistry experiments, field experiments, flux calculation, model simulation, and the application of machine learning**. By exploring the underlying mechanisms of atmospheric processes, I aim to contribute to advancing knowledge in this field and address relevant environmental challenges. Currently **I am applying for a PhD program**. If you would like to know more, please contact me via email (**23210740028@m.fudan.edu.cn**). 
 
 <!-- I am just a rookie, I wanna record some of my progress on this website 
 <a href='https://scholar.google.com/citations?user=8Ni9HBQAAAAJ&hl=en&oi=ao'>
