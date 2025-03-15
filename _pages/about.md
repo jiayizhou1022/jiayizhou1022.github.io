@@ -75,7 +75,7 @@ My research interests include **atmospheric chemistry experiments, field experim
 - *2021.12* **China National Scholarship**                                    
 - Multiple awards for "Outstanding Student" and "Excellent Student Leader", NUIST                                                           
 
-## Awards                                                
+## Selected Awards                                               
 - *2021*, National Innovation Experience Competition, **principal**, Third Prize
 - *2021*, National College Student Water Conservancy Innovation Design Competition, **principal**, **First Prize**
 - *2021*, National Innovation Experience Competition, **principal**, Third Prize
